@@ -64,8 +64,8 @@ with open('2023-12-02_09-33-16_za-reference-01.csv', newline='') as csvfile:
 time_interval = end_time - start_time
 average_speed = speed_sum / speed_counter
 print("time      : ", time_interval)
-print("power     : ", power_summary, "kWh")
-print("distance  : ", distance_total, "km")
-print("avg. speed: ", average_speed, "km/h")
+print("power     : ", round(power_summary, 2), "kWh")
+print("distance  : ", round(distance_total, 2), "km")
+print("avg. speed: ", round(average_speed, 2), "km/h")
 
 
