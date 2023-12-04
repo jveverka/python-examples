@@ -22,7 +22,6 @@ To calculate statistics from data file:
 | avg. bat. temp. |  9.18 ℃   |
 | battery SoH     |  99.25 %   |
 
-
 ### Trip: 2023-12-02 09:33:16 ZA Reference 01
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
