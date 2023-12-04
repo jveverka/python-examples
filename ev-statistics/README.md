@@ -1,8 +1,9 @@
-# EV statistics calculation
+# EV statistics calculations
 
 Simple script to calculate EV trip statistics for a single trip data file recorder using [Car Scanner ELM OBD2](https://play.google.com/store/apps/details?id=com.ovz.carscanner&hl=en&gl=US) app connected to EV via [ELM327](https://www.alza.sk/mobilly-obd-ii-bt-d4624328.htm) OBD adapter.
 One CSV file is one trip.
 
+To calculate statistics from data file:
 ```
 ./ev-stats.py <data-file.csv>
 ```
