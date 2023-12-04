@@ -3,7 +3,7 @@
 import csv
 from datetime import datetime
 
-with open('2023-12-02_09-33-16_za-reference-01.csv', newline='') as csvfile:
+with open('2023-12-04_07-13-19.csv', newline='') as csvfile:
     reader = csv.DictReader(csvfile)
     
     power_timestamp_old = None
@@ -63,9 +63,11 @@ with open('2023-12-02_09-33-16_za-reference-01.csv', newline='') as csvfile:
 
 time_interval = end_time - start_time
 average_speed = speed_sum / speed_counter
+average_consumption = power_summary / (distance_total/100)
 print("time      : ", time_interval)
 print("power     : ", round(power_summary, 2), "kWh")
 print("distance  : ", round(distance_total, 2), "km")
 print("avg. speed: ", round(average_speed, 2), "km/h")
+print("avg. consu: ", round(average_consumption, 2), "kWh/100km")
 
 
