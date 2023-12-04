@@ -94,7 +94,7 @@ avg_amb_temperature = ambient_temp_sum / ambient_temp_counter
 ave_bat_temperature = battery_temp_sum / battery_temp_counter 
 
 print("")
-print(" TRIP SUMMARY    : ")
+print("### Trip:", file_name)
 print("| Variable        | Value                                      |")
 print("|-----------------|--------------------------------------------|")
 print("| trip time       | ", time_interval, "|")

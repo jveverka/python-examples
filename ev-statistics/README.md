@@ -10,7 +10,7 @@ To calculate statistics from data file:
 
 ## Actual Stats Calculations
 
-### 2023-11-19 12:40:45
+### Trip: 2023-11-19 12:40:45
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
 | trip time       |  0:48:52.798000 |
