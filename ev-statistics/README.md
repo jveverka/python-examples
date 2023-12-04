@@ -9,41 +9,62 @@ To calculate statistics from data file:
 ```
 
 ## Actual Stats Calculations
+| Variable        | Description                                     |
+|-----------------|-------------------------------------------------|
+| trip total time |  total trip time                                |
+| power consumed  |  total power consumtion for a trip in kWh       |
+| trip distance   |  trip distance in km                            |
+| avg. speed      |  average trip speed in km/h                     |
+| avg. consumtion |  average power consumprion in kWh per 100km     |
+| avg. amb. temp. |  average ambient temperature in ℃              |
+| avg. bat. temp. |  average battery temperature in ℃              |
+| battery SoH     |  battery State of Health in %                   |
+| max battery cap.|  estimated max. battery capacity in kWh         |
+| max range estim.|  estimated max. range for trip conditions in km |
+
 
 ### Trip: 2023-11-19 12:40:45
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
-| trip time       |  0:48:52.798000 |
+| trip total time |  0:48:52.798000 |
 | power consumed  |  4.31 kWh   |
-| distance        |  20.6 km   |
+| trip distance   |  20.6 km   |
 | avg. speed      |  30.92 km/h   |
 | avg. consumtion |  20.92 kWh/100km   |
 | avg. amb. temp. |  1.32 ℃   |
 | avg. bat. temp. |  9.18 ℃   |
 | battery SoH     |  99.25 %   |
+| max battery cap.|  44.19 kWh   |
+| max range estim.|  211.21 km   |
+
 
 ### Trip: 2023-12-02 09:33:16 ZA Reference 01
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
-| trip time       |  0:25:28.143000 |
+| trip total time |  0:25:28.143000 |
 | power consumed  |  3.41 kWh   |
-| distance        |  19.43 km   |
+| trip distance   |  19.43 km   |
 | avg. speed      |  45.93 km/h   |
 | avg. consumtion |  17.56 kWh/100km   |
 | avg. amb. temp. |  -0.07 ℃   |
 | avg. bat. temp. |  7.0 ℃   |
 | battery SoH     |  98.44 %   |
+| max battery cap.|  44.19 kWh   |
+| max range estim.|  251.68 km   |
 
 ### Trip: 2023-12-04 07:13:19
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
-| trip time       |  0:31:00.886000 |
+| trip total time |  0:31:00.886000 |
 | power consumed  |  2.7 kWh   |
-| distance        |  13.64 km   |
+| trip distance   |  13.64 km   |
 | avg. speed      |  26.5 km/h   |
 | avg. consumtion |  19.83 kWh/100km   |
 | avg. amb. temp. |  -2.48 ℃   |
 | avg. bat. temp. |  5.0 ℃   |
 | battery SoH     |  98.44 %   |
+| max battery cap.|  43.9 kWh   |
+| max range estim.|  221.37 km   |
+
 
 
