@@ -9,6 +9,20 @@ To calculate statistics from data file:
 ```
 
 ## Actual Stats Calculations
+
+### 2023-11-19 12:40:45
+| Variable        | Value                                      |
+|-----------------|--------------------------------------------|
+| trip time       |  0:48:52.798000 |
+| power consumed  |  4.31 kWh   |
+| distance        |  20.6 km   |
+| avg. speed      |  30.92 km/h   |
+| avg. consumtion |  20.92 kWh/100km   |
+| avg. amb. temp. |  1.32 ℃   |
+| avg. bat. temp. |  9.18 ℃   |
+| battery SoH     |  99.25 %   |
+
+
 ### Trip: 2023-12-02 09:33:16 ZA Reference 01
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
