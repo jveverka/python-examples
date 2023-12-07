@@ -20,7 +20,7 @@ To calculate statistics from data file:
 | avg. bat. temp. | average battery temperature in ℃                                   |
 | battery SoH     | battery State of Health for the trip in %                          |
 | max battery cap.| estimated max. battery capacity for the trip in kWh                |
-| max range estim.| estimated max. range for trip conditions in km                     |
+| max range estim.| estimated max. range for the trip conditions in km                 |
 
 ### Trip: 2023-12-07 12:41:33.csv
 | Variable        | Value                                      |
