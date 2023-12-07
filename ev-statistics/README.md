@@ -9,18 +9,18 @@ To calculate statistics from data file:
 ```
 
 ## Actual Stats Calculations
-| Variable        | Description                                     |
-|-----------------|-------------------------------------------------|
-| trip total time |  total trip time                                |
-| power consumed  |  total power consumtion for a trip in kWh       |
-| trip distance   |  trip distance in km                            |
-| avg. speed      |  average trip speed in km/h                     |
-| avg. consumtion |  average power consumprion in kWh per 100km     |
-| avg. amb. temp. |  average ambient temperature in ℃              |
-| avg. bat. temp. |  average battery temperature in ℃              |
-| battery SoH     |  battery State of Health in %                   |
-| max battery cap.|  estimated max. battery capacity in kWh         |
-| max range estim.|  estimated max. range for trip conditions in km |
+| Variable        | Description                                                        |
+|-----------------|--------------------------------------------------------------------|
+| trip total time | total trip time                                                    |
+| power consumed  | total power consumtion for a trip in kWh                           |
+| trip distance   | trip distance in km                                                |
+| avg. speed      | average trip speed in km/h                                         |
+| avg. consumtion | average power consumption in kWh per 100km for the trip conditions |
+| avg. amb. temp. | average ambient temperature in ℃                                   |
+| avg. bat. temp. | average battery temperature in ℃                                   |
+| battery SoH     | battery State of Health for the trip in %                          |
+| max battery cap.| estimated max. battery capacity for the trip in kWh                |
+| max range estim.| estimated max. range for trip conditions in km                     |
 
 ### Trip: 2023-12-07 12:41:33.csv
 | Variable        | Value                                      |
