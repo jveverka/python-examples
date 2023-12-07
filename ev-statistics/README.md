@@ -22,6 +22,10 @@ To calculate statistics from data file:
 | max battery cap.| estimated max. battery capacity for the trip in kWh                |
 | max range estim.| estimated max. range for the trip conditions in km                 |
 
+Car make and type: [Peugeot e-208 GT 2022](https://ev-database.org/car/1583/Peugeot-e-208)
+Battery capacity : 45 kWh
+Max. power output: 100 kW (136 PS)
+
 ### Trip: 2023-12-07 12:41:33.csv
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
