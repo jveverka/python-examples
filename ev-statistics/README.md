@@ -11,8 +11,8 @@ To calculate statistics from data file:
 ## Actual Stats Calculations
 | Variable        | Description                                                        |
 |-----------------|--------------------------------------------------------------------|
-| trip total time | total trip time                                                    |
-| power consumed  | total power consumtion for a trip in kWh                           |
+| trip total time | total driving time (may include parking or waiting time)           |
+| power consumed  | total power consumtion for the trip in kWh                         |
 | trip distance   | trip distance in km                                                |
 | avg. speed      | average trip speed in km/h                                         |
 | avg. consumtion | average power consumption in kWh per 100km for the trip conditions |
