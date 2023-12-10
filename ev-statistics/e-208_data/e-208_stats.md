@@ -4,6 +4,20 @@
 | Battery capacity   | 45 kWh                                                                  |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
+### Trip: 2023-12-10 17:04:11
+| Variable        | Value                                      |
+|-----------------|--------------------------------------------|
+| trip time       |  0:18:05.170000 |
+| power consumed  |  1.4 kWh   |
+| distance        |  8.48 km   |
+| avg. speed      |  27.97 km/h   |
+| avg. consumtion |  16.52 kWh/100km   |
+| avg. amb. temp. |  1.63 ℃   |
+| avg. bat. temp. |  5.41 ℃   |
+| battery SoH     |  99.12 %   |
+| max battery cap.|  44.77 kWh   |
+| max range estim.|  271.02 km   |
+
 ### Trip: 2023-12-07 12:41:33
 | Variable        | Value                                      |
 |-----------------|--------------------------------------------|
