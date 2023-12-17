@@ -1,7 +1,7 @@
 ## Peugeot e-208 GT 2022
 | Car make and type  | [Peugeot e-208 GT 2022](https://ev-database.org/car/1583/Peugeot-e-208) |
 |--------------------|-------------------------------------------------------------------------| 
-| Battery capacity   | 45 kWh                                                                  |
+| Battery capacity   | 45 kWh usable, 50kWh nominal                                            |
 | Max. power output  | 100 kW (136 PS), front wheel drive                                      | 
 
 ### Trip: 2023-12-16 08-53-55
