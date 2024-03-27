@@ -1,5 +1,5 @@
 # Calculate Polygon Union
 
-``pip install shapely``
+``pip install matplotlib shapely``
 
 ``./polygon-union.py``
